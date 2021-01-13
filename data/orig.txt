@@ -1,0 +1,3 @@
+Nafn;Fæðingardagur;Heimilisfang;Sveitarfélag;Heildarlaun á mán. 2016 f. skatt;Fjárm.tekjur f. allt árið 2016;;;;;;0;;;;
+Svampur Sveinsson;01.01.99;Ananasgötu 3;bikiníbotn;316,016;0 kr;;;;;;;;;;
+Marselin vampírudrottning;12.12.10;Eldgötu 12;Náttarsvæðinu;316,647;8.820 kr;;;;;;;;;;

@@ -1,0 +1,33 @@
+{
+	"010199": {
+		"028ed0ba5ee50199407bd89122a6f4d8" : {
+			"gender"	:	"kk",
+			"kt"		:	"0101991239",
+			"name"		:	"Svampur Sveinsson"
+		},
+
+		"3233b3306a942d8c13e71569d3db9d0f" : {
+			"gender"	:	"kk",
+			"kt"		:	"0101994569",
+			"name"		:	"Beygjari Rodriqas"
+		}
+	},
+
+	"121210": {
+		"690689a374ddc656d77f7d70f0d4f046" : {
+			"gender"	:	"kvk",
+			"kt"		:	"1212106669",
+			"name"		:	"Marselín Vampírudrottning"
+
+		}
+
+
+
+	}
+}
+
+
+
+
+	
+		

@@ -1,0 +1,2 @@
+2A::0101991239:1212106669:Svampur Sveinsson:0000:1234:5678::4:1:::IS:0000:::AB1:123:Ananasgötu 3
+21::1212106669:1212106669:Marselín Vampírudrottning:1234:5678::4:1:::NS:0000:::AB1:123:Eldgötu 12
